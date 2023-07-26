@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1657196231 source:c:\users\mmyszor\desktop\inne\prywatne\egzexe\egz\main.cpp
+	<iostream>
+	<cstdlib>
+	<tchar.h>
+	<windows.h>
+	"pytania.h"
+	"odpowiedzi.h"
+
+1657179227 source:c:\users\mmyszor\desktop\inne\prywatne\egzexe\egz\dialog.rc
+	<windows.h>
+	"dialog.h"
+
+1657181204 c:\users\mmyszor\desktop\inne\prywatne\egzexe\egz\dialog.h
+
+1657194731 c:\users\mmyszor\desktop\inne\prywatne\egzexe\egz\pytania.h
+
+1657195806 c:\users\mmyszor\desktop\inne\prywatne\egzexe\egz\odpowiedzi.h
+
+1657179228 source:d:\egzexe\egz\dialog.rc
+	<windows.h>
+	"dialog.h"
+
+1657181206 d:\egzexe\egz\dialog.h
+
+1657312918 source:d:\egzexe\egz\main.cpp
+	<iostream>
+	<cstdlib>
+	<tchar.h>
+	<windows.h>
+	"pytania.h"
+	"odpowiedzi.h"
+
+1657312780 d:\egzexe\egz\pytania.h
+
+1657303410 d:\egzexe\egz\odpowiedzi.h
+
